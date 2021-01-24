@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/praveenorugantitech-calculator-reactjs/precache-manifest.84b2af5689ff4149a52256a4b83a2748.js"
+  "/praveenorugantitech-calculator-reactjs/precache-manifest.e32659b4a984fef78cc1d5377d7153bb.js"
 );
 
 self.addEventListener('message', (event) => {
