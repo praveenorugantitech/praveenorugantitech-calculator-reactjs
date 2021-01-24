@@ -6,6 +6,6 @@
 </div>
 
 
-[Live Demo](https://praveen-calculator-app.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-calculator-reactjs/)
 
 
